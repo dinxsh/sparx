@@ -16,7 +16,7 @@ const c5Options = {
 };
 
 // Array of HtmlFiles
-const htmlFiles = ["src/index.html"];
+const htmlFiles = ["src/index.html", "src/register.html"];
 
 function getTemplates(files, env) {
   const paths = [];
